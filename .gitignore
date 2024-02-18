@@ -1,0 +1,6 @@
+node_modules
+
+app/config/config.ts
+app/config/dbConfig.ts
+
+package-lock.json
